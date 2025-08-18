@@ -1,1 +1,9 @@
-# BDA_spark_codes
+## ⚙️ Software Requirements
+
+- **Java**: [Java 17](https://adoptium.net/)  
+- **Python**: [Python 3.11.8](https://www.python.org/downloads/release/python-3118/) (for PySpark)  
+- **Apache Spark**: [Download Spark 3.5.6](https://spark.apache.org/downloads.html)  
+  - Spark Release: `3.5.6`  
+  - Package Type: `Pre-built for Apache Hadoop 3.3 and later`
+
+    
